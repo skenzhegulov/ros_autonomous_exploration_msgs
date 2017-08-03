@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>autonomous_exploration_msgs</name>
+  <name>autonomous_exploration</name>
   <version>0.0.0</version>
   <description>The autonomous exploration messages package based on frontier and information gain based approach.</description>
 
